@@ -1,0 +1,11 @@
+com\proyectoap\proyectoap\service\IPersonaService.class
+com\proyectoap\proyectoap\model\Persona.class
+com\proyectoap\proyectoap\repository\PersonaRepository.class
+com\proyectoap\proyectoap\service\PersonaService.class
+com\proyectoap\proyectoap\WebConfig.class
+com\proyectoap\proyectoap\repository\UsuarioRepository.class
+com\proyectoap\proyectoap\Controller\Controller.class
+com\proyectoap\proyectoap\ProyectoapApplication.class
+com\proyectoap\proyectoap\model\Usuario.class
+com\proyectoap\proyectoap\service\IUsuarioService.class
+com\proyectoap\proyectoap\service\UsuarioService.class
