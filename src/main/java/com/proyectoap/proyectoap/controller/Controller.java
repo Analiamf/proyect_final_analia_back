@@ -63,7 +63,8 @@ public class Controller {
     @GetMapping ("/persona/{id}")
     @ResponseBody // para que me lo devuelva la respuesta en el body
     public Persona getPersona (@PathVariable Long id) {
-        return persoServ.buscarPersona(id);
+       // return persoServ.buscarPersona(id);
+       return new Persona( Long.valueOf(1), "Martina", "Perez");
     }
     
     @DeleteMapping ("/delete/{id}")
